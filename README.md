@@ -56,10 +56,11 @@ Before you can run the project, make sure you have the following installed:
 church_inventory.py # Main Python file contaning the Flask app
 static/ # Directory for storing QR code images
 templates/ # HTML templates
+```
 
 ## License
 This project is licensed under the MIT License. See the LICENSE fill for more information.
-```javascript
+
 
 ### Additional Instructions:
 - Replace the placeholder `<yourusername>` in the repository URL with your actual GitHub username.

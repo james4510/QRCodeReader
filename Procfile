@@ -1,1 +1,0 @@
-worker: python curch_inventory.py

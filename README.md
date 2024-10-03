@@ -25,8 +25,7 @@ Before you can run the project, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/church_inventory.git
-   cd church_inventory
+   git clone https://github.com/church_inventory.git
 
 2. **Install dependencies**:
    ```bash
